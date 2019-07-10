@@ -11,29 +11,15 @@
     font-weight: $bold;
   }
 
-  .cnter__div2__h5{
+  .cnter__div2--h5{
     margin-bottom: 1rem;
     font-weight: $bold;
   }
 
-  .cnter__div2__p{
+  .cnter__div2--p{
     line-height: 1.5rem;
   }
 
-  @keyframes mover {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-
-  .estadistica{
-    animation-name: mover;
-    animation-duration: 1s;
-    animation-timing-function: ease-in;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
-    margin-left: 10%;
-    width: 100%;
-  }
 
 @media only screen and (min-width: 768px){
   .container-2{
@@ -49,29 +35,15 @@
     font-weight: $bold;
   }
 
-  .cnter__div2__h5{
+  .cnter__div2--h5{
     margin-bottom: 1rem;
     font-weight: $bold;
   }
 
-  .cnter__div2__p{
+  .cnter__div2--p{
     line-height: 1.5rem;
   }
 
-  @keyframes mover {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-
-  .estadistica{
-    animation-name: mover;
-    animation-duration: 1s;
-    animation-timing-function: ease-in;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
-    margin-left: 10%;
-    width: 100%;
-  }
 }
 @media only screen and (min-width: 992px){
   .container-2{
@@ -87,28 +59,13 @@
     font-weight: $bold;
   }
 
-  .cnter__div2__h5{
+  .cnter__div2--h5{
     margin-bottom: 1rem;
     font-weight: $bold;
   }
 
-  .cnter__div2__p{
+  .cnter__div2--p{
     line-height: 1.5rem;
-  }
-
-  @keyframes mover {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-
-  .estadistica{
-    animation-name: mover;
-    animation-duration: 1s;
-    animation-timing-function: ease-in;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
-    margin-left: 0;
-    width: 100%;
   }
 
 }
@@ -131,28 +88,13 @@
     font-weight: $bold;
   }
 
-  .cnter__div2__h5{
+  .cnter__div2--h5{
     margin-bottom: 1rem;
     font-weight: $bold;
   }
 
-  .cnter__div2__p{
+  .cnter__div2--p{
     line-height: 1.5rem;
-  }
-
-  @keyframes mover {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-
-  .estadistica{
-    animation-name: mover;
-    animation-duration: 1s;
-    animation-timing-function: ease-in;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
-    margin-left: 0;
-    width: 100%;
   }
 
 }

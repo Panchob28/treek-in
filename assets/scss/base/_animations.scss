@@ -1,0 +1,66 @@
+@keyframes mover {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+  .estadistica{
+    animation-name: mover;
+    animation-duration: 1s;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    margin-left: 10%;
+    width: 100%;
+  }
+
+  @media only screen and (min-width: 768px){
+
+    @keyframes mover {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+      .estadistica{
+        animation-name: mover;
+        animation-duration: 1s;
+        animation-timing-function: ease-in;
+        animation-iteration-count: infinite;
+        animation-direction: alternate;
+        margin-left: 10%;
+        width: 100%;
+      }
+  }
+
+  @media only screen and (min-width: 992px){
+
+    @keyframes mover {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+      .estadistica{
+        animation-name: mover;
+        animation-duration: 1s;
+        animation-timing-function: ease-in;
+        animation-iteration-count: infinite;
+        animation-direction: alternate;
+        margin-left: 10%;
+        width: 100%;
+      }
+
+  }
+
+  @media only screen and (min-width: 1350px){
+
+    @keyframes mover {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+      .estadistica{
+        animation-name: mover;
+        animation-duration: 1s;
+        animation-timing-function: ease-in;
+        animation-iteration-count: infinite;
+        animation-direction: alternate;
+        margin-left: 10%;
+        width: 100%;
+      }
+
+  }

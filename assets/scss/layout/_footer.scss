@@ -1,4 +1,4 @@
-    .p2{
+    .footer__p2{
       margin-right: 0;
       text-align: center;
     margin-top: 2rem;
@@ -13,7 +13,7 @@
     display: inline;
     }
 
-    .footer__ul__li{
+    .footer__ul--li{
       margin-left: 1.25rem;
       margin-right: 1.25rem;
     display: inline;
@@ -21,7 +21,7 @@
     font-size: $x-small;
     }
 
-    footer{
+    .footer{
       display: block;
       text-align: center;
     justify-content: space-between;
@@ -32,14 +32,9 @@
     }
 
 
-    .footer__ul__li{
-    margin-left: 1.25rem;
-    margin-right: 1.25rem;
-    }
-
 @media only screen and (min-width: 768px){
 
-    .p2{
+    .footer__p2{
     margin-right: 4rem;
     margin-top: 2rem;
     font-family: $raleway;
@@ -53,14 +48,14 @@
     display: inline;
   }
 
-  .footer__ul__li{
+  .footer__ul--li{
     display: inline;
     font-family: $opensans;
     font-size: $x-small;
     margin-right: 2.5rem;
   }
 
-  footer{
+  .footer{
     display: flex;
     justify-content: space-between;
     color: $blanco;
@@ -72,7 +67,7 @@
 
 }
 @media only screen and (min-width: 992px){
-    .p2{
+    .footer__p2{
     margin-right: 4rem;
     margin-top: 2rem;
     font-family: $raleway;
@@ -86,14 +81,14 @@
     display: inline;
   }
 
-  .footer__ul__li{
+  .footer__ul--li{
     display: inline;
     font-family: $opensans;
     font-size: $x-small;
     margin-right: 2.5rem;
   }
 
-  footer{
+  .footer{
     display: flex;
     justify-content: space-between;
     color: $blanco;
@@ -104,7 +99,7 @@
 }
 
 @media only screen and (min-width: 1350px){
-    .p2{
+    .footer__p2{
     margin-right: 4rem;
     margin-top: 2rem;
     font-family: $raleway;
@@ -118,14 +113,14 @@
     display: inline;
   }
 
-  .footer__ul__li{
+  .footer__ul--li{
     display: inline;
     font-family: $opensans;
     font-size: $x-small;
     margin-right: 2.5rem;
   }
 
-  footer{
+  .footer{
     display: flex;
     justify-content: space-between;
     color: $blanco;

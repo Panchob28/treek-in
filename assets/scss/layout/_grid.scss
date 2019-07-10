@@ -10,7 +10,7 @@
   }
 }
 
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 1360px) {
   .container{
     width: 1170px;
   }
@@ -30,7 +30,7 @@
   grid-column-gap: 1rem;
   grid-row-gap: 3rem;
 }
-@media (min-width: 1200px) {
+@media (min-width: 1360px) {
   .row {
     grid-column-gap: 4rem;
   }
@@ -148,7 +148,7 @@
     grid-column: span 1;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1360px) {
   .col-lg-12 {
     grid-column: span 12;
   }
