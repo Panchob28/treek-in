@@ -1,0 +1,136 @@
+    .p2{
+      margin-right: 0;
+      text-align: center;
+    margin-top: 2rem;
+    font-family: $raleway;
+    font-size: $x-small;
+    }
+
+    .footer__ul{
+      margin-left: 0;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    display: inline;
+    }
+
+    .footer__ul__li{
+      margin-left: 1.25rem;
+      margin-right: 1.25rem;
+    display: inline;
+    font-family: $opensans;
+    font-size: $x-small;
+    }
+
+    footer{
+      display: block;
+      text-align: center;
+    justify-content: space-between;
+    color: $blanco;
+    background-color: $raisingblack;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    }
+
+
+    .footer__ul__li{
+    margin-left: 1.25rem;
+    margin-right: 1.25rem;
+    }
+
+@media only screen and (min-width: 768px){
+
+    .p2{
+    margin-right: 4rem;
+    margin-top: 2rem;
+    font-family: $raleway;
+    font-size: $x-small;
+  }
+
+  .footer__ul{
+    margin-left: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    display: inline;
+  }
+
+  .footer__ul__li{
+    display: inline;
+    font-family: $opensans;
+    font-size: $x-small;
+    margin-right: 2.5rem;
+  }
+
+  footer{
+    display: flex;
+    justify-content: space-between;
+    color: $blanco;
+    background-color: $raisingblack;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+
+
+}
+@media only screen and (min-width: 992px){
+    .p2{
+    margin-right: 4rem;
+    margin-top: 2rem;
+    font-family: $raleway;
+    font-size: $x-small;
+  }
+
+  .footer__ul{
+    margin-left: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    display: inline;
+  }
+
+  .footer__ul__li{
+    display: inline;
+    font-family: $opensans;
+    font-size: $x-small;
+    margin-right: 2.5rem;
+  }
+
+  footer{
+    display: flex;
+    justify-content: space-between;
+    color: $blanco;
+    background-color: $raisingblack;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+}
+
+@media only screen and (min-width: 1350px){
+    .p2{
+    margin-right: 4rem;
+    margin-top: 2rem;
+    font-family: $raleway;
+    font-size: $x-small;
+  }
+
+  .footer__ul{
+    margin-left: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    display: inline;
+  }
+
+  .footer__ul__li{
+    display: inline;
+    font-family: $opensans;
+    font-size: $x-small;
+    margin-right: 2.5rem;
+  }
+
+  footer{
+    display: flex;
+    justify-content: space-between;
+    color: $blanco;
+    background-color: $raisingblack;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+}
